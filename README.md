@@ -154,6 +154,7 @@ The dashboard focuses on:
 Page  — Overview
 
 Provides a high-level summary of the assessment, including the number of participants and major findings.
+
 ---
 
 # ⚠️ Limitations
