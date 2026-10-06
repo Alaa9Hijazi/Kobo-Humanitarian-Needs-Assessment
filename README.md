@@ -173,8 +173,8 @@ Despite these limitations, the assessment provides useful exploratory evidence a
 # 🔐Data Privacy
 
 The dataset used in this assessment contains responses collected from university students. Due to data privacy and responsible data management considerations, the raw participant-level dataset and the original Power BI file are not publicly shared in this repository.
-
 The repository includes the assessment methodology, dashboard screenshot, and key findings while protecting participant data.
+
 ---
 
 # 📁 Repository Structure
@@ -184,14 +184,15 @@ kobo-humanitarian-needs-assessment-gaza/
 ├── README.md
 │
 ├── Documentation/
-│   ├── Assessment_Plan.pdf
+│   └── Assessment_Plan.pdf
 │
 ├── Screenshot/
-│   └── Dashboard.png
-│   └── Details.png
-│   └── photo 1 .png
+│   ├── Dashboard.png
+│   ├── Details.png
+│   ├── photo 1.png
 │   └── photo 2.png
-│   └── Survey.pdf
+│
+└── Survey.pdf
 
 ---
 
